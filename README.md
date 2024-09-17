@@ -39,32 +39,32 @@ README.md: This file, providing an overview of the project.
 
 1.Data Loading and Exploration:
 
-Loaded the dataset and inspected the first few rows to understand its structure.
+  Loaded the dataset and inspected the first few rows to understand its structure.
 
-Summary statistics of the dataset were generated.
+  Summary statistics of the dataset were generated.
 
 2.Data Visualization:
 
-Plotted pairwise relationships between the features using scatter plots.
+  Plotted pairwise relationships between the features using scatter plots.
 
-Created histograms for each feature to visualize the distribution.
+  Created histograms for each feature to visualize the distribution.
 
-Visualized the relationship between features and the species using box plots and violin plots.
+  Visualized the relationship between features and the species using box plots and violin plots.
 
 
 3.Machine Learning Models:
 
-Split the dataset into training and testing sets.
+  Split the dataset into training and testing sets.
 
-Applied several classification models, including:
+  Applied several classification models, including:
 
-K-Nearest Neighbors (KNN)
+   K-Nearest Neighbors (KNN)
 
-Support Vector Machine (SVM)
+   Support Vector Machine (SVM)
 
-Random Forest Classifier
+   Random Forest Classifier
 
-Evaluated the models' performance based on accuracy, precision, recall, and F1-score.
+  Evaluated the models' performance based on accuracy, precision, recall, and F1-score.
 
 
 
