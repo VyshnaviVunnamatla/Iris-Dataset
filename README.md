@@ -6,7 +6,7 @@ This repository contains an analysis of the classic Iris flower dataset. The dat
 The goal of this project is to explore the dataset, perform data analysis, and create visualizations to gain insights into the features and species. Additionally, we apply machine learning techniques to classify the different species of Iris flowers.
 
 
-Dataset
+# Dataset
 
 The Iris dataset is one of the most well-known datasets in data science and is available in the sklearn library. It includes the following columns:
 
@@ -17,7 +17,7 @@ Petal Width (cm)
 Species (Iris-setosa, Iris-versicolor, Iris-virginica)
 
 
-Repository Contents
+# Repository Contents
 
 Iris_analysis.ipynb: The main Jupyter Notebook containing:
 Data loading and exploration
@@ -26,7 +26,7 @@ Machine learning classification models
 README.md: This file, providing an overview of the project.
 
 
-Analysis Steps
+# Analysis Steps
 
 1.Data Loading and Exploration:
 
@@ -49,7 +49,7 @@ Random Forest Classifier
 Evaluated the models' performance based on accuracy, precision, recall, and F1-score.
 
 
-Libraries Used:
+# Libraries Used:
 
 pandas
 numpy
@@ -58,7 +58,7 @@ seaborn
 scikit-learn
 
 
-How to Run
+# How to Run
 
 1.Clone the repository:
   git clone https://github.com/VyshnaviVunnamatla/Iris-Dataset.git
@@ -70,6 +70,6 @@ How to Run
   jupyter notebook Iris_analysis.ipynb
 
 
-Conclusion
+# Conclusion
 
 This analysis demonstrates how the Iris dataset can be used for a simple yet effective classification problem. The exploratory data analysis provides valuable insights into the relationships between features, while the machine learning models offer robust classification of the Iris species with high accuracy.
