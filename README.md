@@ -34,6 +34,50 @@ Machine learning classification models
 
 README.md: This file, providing an overview of the project.
 
+# Insights:
+
+ Matplotlib:
+ 
+ Matplotlib is a comprehensive library for creatinhg static,animated,and interactive visualizations
+ in Python.It is widely used for plotting data and offers flexibility and control over the appearance
+ of plots.It provides a wide variety of plotting options including line plots, scatter plots, bar charts,
+ histograms, and more.
+
+ 
+ Seaborn:
+ 
+ Seaborn is a Python data visualization library based on Matplotlib. It provides a high-level interface
+ for creating informative and attractive statistical graphics. Seaborn simplifies the process of creating
+ common visualization types and integrates well with Pandas data structures.
+ 
+
+ PAIRPLOT : A pairplot is a great way to visualize relationships between all pairs of features in
+ a dataset. It creates a matrix of scatter plots, where each scatter plot shows the relationship
+ between two different features.The diagonal of the matrix shows the distribution of each feature
+ using histograms or kernel density estimations.
+
+
+ PIE CHART : A pie chart is a circular statistical graphic, which is divided into slices to illustrate
+ numerical proportion. In a pie chart, the arc length of each slice (and consequently its central angle
+ and area), is proportional to the quantity it represents. While it is named for its resemblance to a
+ pie which has been sliced, there are variations on the way it can be presented.
+
+
+ SCATTER PLOT : A scatter plot uses dots to represent values for two different numeric variables.
+ The position of each dot on the horizontal and vertical axis indicates values for an individual data
+ point. Scatter plots are used to observe relationships between variables.
+
+
+ JOINT PLOT : Ajointplot is a way to visualize the relationship between two variables, along with their
+ individual distributions. It combines a scatter plot with histograms or kernel density estimations
+ to show both the bivariate and univariate distributions.
+ 
+
+ KDE PLOT : Akdeplot (Kernel Density Estimation plot) is a way to visualize the distribution of a
+ single variable or the relationship between two variables. It uses a kernel density estimate to show
+ the probability density function of the data.
+ KDE plots are especially useful for visualizing the shape of a distribution and identifying any
+ clusters or outliers.
 
 # Analysis Steps
 
