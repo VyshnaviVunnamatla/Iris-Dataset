@@ -1,4 +1,4 @@
-# Iris-Dataset Analysis
+## Iris-Dataset Analysis
 # Overview
 
 This repository contains an analysis of the classic Iris flower dataset. The dataset includes 150 samples from each of three species of Iris flowers: Iris setosa, Iris virginica, and Iris versicolor. Each sample consists of four features: sepal length, sepal width, petal length, and petal width.
@@ -64,10 +64,12 @@ scikit-learn
   git clone https://github.com/VyshnaviVunnamatla/Iris-Dataset.git
 
 2.nstall the required libraries:
-  pip install -r requirements.txt
+
+    pip install -r requirements.txt
 
 3.Run the Jupyter notebook to explore the dataset and models:
-  jupyter notebook Iris_analysis.ipynb
+
+    jupyter notebook Iris_analysis.ipynb
 
 
 # Conclusion
