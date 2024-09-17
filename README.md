@@ -52,16 +52,21 @@ Evaluated the models' performance based on accuracy, precision, recall, and F1-s
 # Libraries Used:
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
 
 
 # How to Run
 
 1.Clone the repository:
-  git clone https://github.com/VyshnaviVunnamatla/Iris-Dataset.git
+ 
+    git clone https://github.com/VyshnaviVunnamatla/Iris-Dataset.git
 
 2.nstall the required libraries:
 
