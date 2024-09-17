@@ -11,28 +11,28 @@ The goal of this project is to explore the dataset, perform data analysis, and c
 The Iris dataset is one of the most well-known datasets in data science and is available in the sklearn library. It includes the following columns:
 
 
--Sepal Length (cm)
+- Sepal Length (cm)
 
--Sepal Width (cm)
+- Sepal Width (cm)
 
--Petal Length (cm)
+- Petal Length (cm)
 
--Petal Width (cm)
+- Petal Width (cm)
 
--Species (Iris-setosa, Iris-versicolor, Iris-virginica)
+- Species (Iris-setosa, Iris-versicolor, Iris-virginica)
 
 
 ## Repository Contents
 
 Iris_analysis.ipynb: The main Jupyter Notebook containing:
 
--Data loading and exploration
+- Data loading and exploration
 
--Data visualization
+- Data visualization
 
--Machine learning classification models
+- Machine learning classification models
 
--README.md: This file, providing an overview of the project.
+- README.md: This file, providing an overview of the project.
 
 ## Insights:
 
@@ -83,33 +83,32 @@ Iris_analysis.ipynb: The main Jupyter Notebook containing:
 
 1. Data Loading and Exploration:
 
-   -Loaded the dataset and inspected the first few rows to understand its structure.
+   - Loaded the dataset and inspected the first few rows to understand its structure.
 
-   -Summary statistics of the dataset were generated.
+   - Summary statistics of the dataset were generated.
 
 3. Data Visualization:
 
-   -Plotted pairwise relationships between the features using scatter plots.
+   - Plotted pairwise relationships between the features using scatter plots.
 
-   -Created histograms for each feature to visualize the distribution.
+   - Created histograms for each feature to visualize the distribution.
 
-   -Visualized the relationship between features and the species using box plots and violin plots.
+   - Visualized the relationship between features and the species using box plots and violin plots.
 
 
 3. Machine Learning Models:
 
-   -Split the dataset into training and testing sets.
+   - Split the dataset into training and testing sets.
 
-   -Applied several classification models, including:
+   - Applied several classification models, including:
 
-     --K-Nearest Neighbors (KNN)
+     -- K-Nearest Neighbors (KNN)
 
-     --Support Vector Machine (SVM)
+     -- Support Vector Machine (SVM)
 
-     --Random Forest Classifier
+     -- Random Forest Classifier
 
-   -Evaluated the models' performance based on accuracy, precision, recall, and F1-score.
-
+   - Evaluated the models' performance based on accuracy, precision, recall, and F1-score.
 
 
 ## Libraries Used:
