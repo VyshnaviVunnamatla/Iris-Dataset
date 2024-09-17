@@ -66,7 +66,7 @@ scikit-learn
 
 1.Clone the repository:
  
-    git clone https://github.com/VyshnaviVunnamatla/Iris-Dataset.git
+   git clone https://github.com/VyshnaviVunnamatla/Iris-Dataset.git
 
 2.nstall the required libraries:
 
